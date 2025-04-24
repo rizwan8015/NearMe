@@ -36,7 +36,7 @@ Execute the programs and publish them.
 <body>
     <center>
     <h1>CUDDALORE -IMAGE MAPPING</h1>
-         <H2>SHEIK FAIZAL S -212224240151</H2>
+         <H2>RIZWAN - 212224100051</H2>
         <img src="c:\Users\admin\Pictures\Screenshots\map.png" alt="CuddaloreMap" usemap="#image-map">
         
            
@@ -129,7 +129,8 @@ Execute the programs and publish them.
 
 ## OUTPUT
 
-![WhatsApp Image 2025-04-23 at 23 12 09_24d505ea](https://github.com/user-attachments/assets/6c872b7a-8686-40a4-960e-1acfd7aafff5)
+![image](https://github.com/user-attachments/assets/5fc982ca-2242-45df-911d-0fecf1d81b7e)
+
 
 ![WhatsApp Image 2025-04-23 at 23 18 42_3d49ecc4](https://github.com/user-attachments/assets/b6b2b13d-b030-4aae-a317-2c2743331fe1)
 
